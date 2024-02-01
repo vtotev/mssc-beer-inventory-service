@@ -1,4 +1,4 @@
-package sfg.beer.inventory.service.web.mappers;
+package guru.sfg.beer.inventory.service.web.mappers;
 
 import org.springframework.stereotype.Component;
 

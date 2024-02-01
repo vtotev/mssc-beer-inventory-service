@@ -1,4 +1,4 @@
-package sfg.beer.inventory.service.domain;
+package guru.sfg.beer.inventory.service.domain;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -5,7 +5,6 @@ import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-@SpringBootConfiguration
 public class BeerInventoryApplicationTests {
 
     @Test

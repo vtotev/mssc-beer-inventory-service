@@ -1,6 +1,6 @@
-package sfg.beer.inventory.service.repositories;
+package guru.sfg.beer.inventory.service.repositories;
 
-import sfg.beer.inventory.service.domain.BeerInventory;
+import guru.sfg.beer.inventory.service.domain.BeerInventory;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
